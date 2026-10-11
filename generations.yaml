@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Renault_Laguna"
+
+generations:
+  - name: "Third Generation (X91)"
+    start_year: 2007
+    end_year: 2015
+    description: "A large family car with 2.0 L gasoline and dCi diesel engines."
